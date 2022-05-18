@@ -45,6 +45,8 @@
 
 <!-- home section starts  -->
 
+<!-- this is a comment -->
+
 <section class="home" id="home">
 
     <div class="content">
