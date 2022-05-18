@@ -522,6 +522,7 @@
 <div class="credit">created by <span>Group 2</span> | all rights reserved!</div>
 
 <!-- footer section ends -->
+<!-- footer section ends -->
 
 <!-- addComment Edrian -->
 <!-- comment -->
