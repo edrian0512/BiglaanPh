@@ -62,7 +62,7 @@
 
 <!-- booking form section starts  -->
 
-<section class="book-form" id="book-form">
+<!-- <section class="book-form" id="book-form">
 
     <form action="book-form.php">
         <div data-aos="zoom-in" data-aos-delay="150" class="inputBox">
@@ -80,7 +80,7 @@
         <input data-aos="zoom-in" data-aos-delay="600" type="submit" value="find now" class="btn">
     </form>
 
-</section>
+</section> -->
 
 <!-- booking form section ends -->
 
