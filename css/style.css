@@ -629,3 +629,57 @@ section {
     font-size: 2.7rem;
   }
 }
+.itinerary {
+  margin: 200px 0 100px 0;
+  color: black;
+  height: 100%;
+  width: 100vw;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.itinerary .itineraryContainer {
+  font-size: 1.4rem;
+  color: #29d9d5;
+  height: 100%;
+  display: block;
+  width: 80vw;
+  font-size: 25px;
+}
+.itinerary .itineraryContainer i {
+  color: #29d9d5;
+}
+.itinerary .itineraryContainer p {
+  color: #aaa;
+}
+.itinerary .btns {
+  display: flex;
+  gap: 20px;
+}
+.itinerary .btns .Itinerarybtn {
+  margin-top: 1rem;
+  display: inline-block;
+  padding: 1rem 3rem;
+  font-size: 1.7rem;
+  color: #111;
+  border: 0.2rem solid #29d9d5;
+  border-radius: 5rem;
+  cursor: pointer;
+  background: #29d9d5;
+}
+.itinerary .btns .Itinerarybtn:nth-child(2) {
+  border: none;
+  background: #111;
+  color: #aaa;
+}
+.itinerary .btns .Itinerarybtn:nth-child(1):hover {
+  background: none;
+  color: #aaa;
+}
+.itinerary .btns .Itinerarybtn:nth-child(2):hover {
+  border: 0.2rem solid #29d9d5;
+  border-radius: 5rem;
+  cursor: pointer;
+  background: none;
+}
