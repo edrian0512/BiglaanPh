@@ -68,7 +68,6 @@
         <div data-aos="zoom-in" data-aos-delay="150" class="inputBox">
             <span>where to?</span>
             <input type="text" placeholder="place name" value="">
-            <option value="Batangas"></option>
         </div>
         <div data-aos="zoom-in" data-aos-delay="300" class="inputBox">
             <span>when?</span>

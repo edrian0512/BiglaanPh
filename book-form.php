@@ -125,9 +125,9 @@
 
         <div class="box" data-aos="fade-up" data-aos-delay="450">
             <h3>contact info</h3>
-            <p> <i class="fas fa-map"></i> mumbai, india </p>
-            <p> <i class="fas fa-phone"></i> +123-456-7890 </p>
-            <p> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </p>
+            <p> <i class="fas fa-map"></i> Lipa, Batangas </p>
+            <p> <i class="fas fa-phone"></i> +63 9082447247 </p>
+            <p> <i class="fas fa-envelope"></i> sample@gmail.com </p>
             <p> <i class="fas fa-clock"></i> 7:00am - 10:00pm </p>
         </div>
 
@@ -144,7 +144,7 @@
 
 </section>
 
-<div class="credit">created by <span>mr. web designer</span> | all rights reserved!</div>
+<div class="credit">created by <span>Group 2</span> | all rights reserved!</div>
 
 <!-- footer section ends -->
 
