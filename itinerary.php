@@ -5,6 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Biglaan Ph</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor"
+      crossorigin="anonymous"
+    />
 
     <!-- font awesome cdn link  -->
     <link
@@ -14,11 +20,6 @@
 
     <!-- custom css file link  -->
     <link rel="stylesheet" href="css/style.css" />
-
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css"
-    />
 
     <!-- custom js file link  -->
     <script src="js/script.js" defer></script>
@@ -59,127 +60,63 @@
     </header>
 
     <!-- header section ends -->
+
     <!-- Itinerary -->
-    <div class="itinerary">
-      <div class="heading">
-        <span>Your travel itinerary</span>
-        <h1>To the world of an incredible vacation.</h1>
-      </div>
-      <div class="itineraryContainer">
-        <i class="fas fa-arrow-right"></i> Places To Visit
-        <br />
-        <br />
 
-        <h3>Travel Spot 1</h3>
-        <br />
-        <br />
-        <p>
-          The word “damili” translates to “the art of pottery making” in the
-          Ilocano language and is the root word for the name Red Clay
-          Pagdamilian, a popular pottery studio and shop that showcases local
-          talent with beautiful pottery and other souvenir items for sale. But
-          more than the pottery on display, what makes it a popular attraction
-          is that for a small fee, anyone can handle the clay and mold their
-          very own one-of-a-kind souvenir clay item from scratch.
-          <br />
-          <br />
-          The hands-on pottery lesson for visitors is such a big hit that it
-          became the focal point of the shop, with local and foreign visitors
-          flocking to the studio to create their own vessels and other pottery
-          designs. It became a venue for visitors to release their artistic
-          talents or a a creative outlet for participants to express their
-          personality. <br />
-          <br />
-          The clay can be molded into useful shapes with a practical purposes or
-          into decorative items to be displayed around the house such as clay
-          pots, food storage, and mugs, to name a few. The pottery and souvenir
-          shop can be found along the National Highway on Barangay La Union.
-        </p>
-        <br />
-        <h3>Travel Spot 2</h3>
-        <br />
-        <br />
-        <p>
-          Urbiztondo Beach in San Juan is known as the Surfing Capital of
-          Northern Philippines, with surfing seasons typically falling July to
-          October and November to March. This area of La Union has a reputation
-          for having the country’s most consistent waves, and thriving surf
-          culture has flourished in recent years. Many places offer surfing
-          lessons for all levels, and numerous places of lodging can also be
-          found throughout the coastline.<br /><br />
-          Surfboards are available for rent throughout the area as well.
-          Beginners typically start having lessons in Bacnotan because the waves
-          in the area are not too big, which is perfect for novice learners or
-          anyone who have never tried surfing before. The more advanced surfers
-          usually go to Urbiztondo and the neighboring town of Mona Lisa Point.
-          Restaurants offering local and international fare along with shops
-          selling local handicrafts and souvenir items are also nearby.<br /><br />
-          Urbiztondo has a great selection of restaurants, with cuisines ranging
-          from Filipino delicacies, comfort food, Mexican, Asian, and Italian
-          food. With its laidback vibe and artistic flair, local and foreign
-          visitors have been coming back to Urbiztondo every year to enjoy the
-          beach life.
-        </p>
-        <br />
-        <i class="fas fa-arrow-right"></i> Where to Stay
-        <br />
-        <br />
-
-        <h3>Hotel 1</h3>
-        <br />
-        <br />
-        <p>
-          From 400-year-old fortresses to centuries-old churches, La Union has
-          its fair share of national historical treasures that make this coastal
-          surf town a wonderful place to visit. It is also a place where
-          talented artists thrive, with pottery makers sharing their space with
-          curious visitors who want to try their hand in shaping clay. Museums
-          and spaces that inspire art are abundant among the La Union tourists
-          spots featured in this list.<br /><br />
-          Residents of La Union have managed to set up a unique agri-tourism
-          industry like grape-picking that continue to attract local and foreign
-          visitors. For many urban dwellers and Luzon residents, La Union offers
-          some of the best beaches and surfing destinations near Manila.<br /><br />
-          Because it is just a bus or car ride away from Manila, it offers a
-          quick escape from the pressures of city living. The scenic beaches,
-          Philippine resorts, and historical landmarks make it the ideal tourist
-          destination for all ages.
-        </p>
-        <br />
-        <h3>Hotel 2</h3>
-        <br />
-        <br />
-        <p>
-          The word “damili” translates to “the art of pottery making” in the
-          Ilocano language and is the root word for the name Red Clay
-          Pagdamilian, a popular pottery studio and shop that showcases local
-          talent with beautiful pottery and other souvenir items for sale. But
-          more than the pottery on display, what makes it a popular attraction
-          is that for a small fee, anyone can handle the clay and mold their
-          very own one-of-a-kind souvenir clay item from scratch.
-          <br />
-          <br />
-          The hands-on pottery lesson for visitors is such a big hit that it
-          became the focal point of the shop, with local and foreign visitors
-          flocking to the studio to create their own vessels and other pottery
-          designs. It became a venue for visitors to release their artistic
-          talents or a a creative outlet for participants to express their
-          personality. <br />
-          <br />
-          The clay can be molded into useful shapes with a practical purposes or
-          into decorative items to be displayed around the house such as clay
-          pots, food storage, and mugs, to name a few. The pottery and souvenir
-          shop can be found along the National Highway on Barangay La Union.
-        </p>
-      </div>
-      <div class="btns">
-        <a href="#book-form" class="Itinerarybtn">book now</a>
-        <a href="#index" class="Itinerarybtn">Go back</a>
+    <!-- image -->
+    <div class="bg-img">
+      <div class="content">
+        <span data-aos="fade-up" data-aos-delay="150"
+          >Travel & tour Itinerary</span
+        >
+        <h3 data-aos="fade-up" data-aos-delay="300">
+          Enjoy the Philippine Wonders
+        </h3>
       </div>
     </div>
+    <!-- image ends -->
+
+    <!-- services/offers starts -->
+
+    <section class="services" id="services">
+      <div class="heading">
+        <span>our promos</span>
+        <h1>Travel far. Eat well. Live long.</h1>
+      </div>
+
+      <div class="box-container">
+        <div class="box" data-aos="zoom-in-up" data-aos-delay="300">
+          <i class="fas fa-hiking"></i>
+          <h3>adventures</h3>
+          <p>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam,
+            cumque.
+          </p>
+        </div>
+
+        <div class="box" data-aos="zoom-in-up" data-aos-delay="450">
+          <i class="fas fa-utensils"></i>
+          <h3>food & drinks</h3>
+          <p>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam,
+            cumque.
+          </p>
+        </div>
+
+        <div class="box" data-aos="zoom-in-up" data-aos-delay="600">
+          <i class="fas fa-hotel"></i>
+          <h3>affordable hotels</h3>
+          <p>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam,
+            cumque.
+          </p>
+        </div>
+      </div>
+    </section>
+    <!-- services/offers ends -->
 
     <!-- gallery section starts  -->
-
+    <!-- 
     <section class="gallery" id="gallery">
       <div class="heading">
         <span>Places to See</span>
@@ -235,10 +172,133 @@
           <h3>Mindanao</h3>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- gallery section ends -->
 
+    <!-- carousel starts -->
+    <article class="container articleCarousel d-flex">
+      <div
+        class="d-flex carousel slid carousel-dark justify-content-center"
+        id="carouselExampleIndicators"
+        data-bs-ride="carousel"
+        data-bs-interval="3000"
+      >
+        <div class="carousel-indicators">
+          <button
+            type="button"
+            data-bs-target="#carouselExampleIndicators"
+            data-bs-slide-to="0"
+            class="active"
+            aria-current="true"
+            aria-label="slide 1"
+          ></button>
+          <button
+            type="button"
+            data-bs-target="#carouselExampleIndicators"
+            data-bs-slide-to="1"
+            aria-current="true"
+            aria-label="slide 2"
+          ></button>
+          <button
+            type="button"
+            data-bs-target="#carouselExampleIndicators"
+            data-bs-slide-to="2"
+            aria-current="true"
+            aria-label="slide 3"
+          ></button>
+        </div>
+
+        <div class="carousel-inner d-flex align-items-center">
+          <div class="carousel-item active">
+            <img class="promo1" src="./images/itinerarygalleryimage4.webp" />
+            <div class="carousel-caption d-none d-md-block"></div>
+          </div>
+          <div class="carousel-item">
+            <img class="promo2" src="./images/itinerarygalleryimage2.jpg" />
+          </div>
+          <div class="carousel-item">
+            <img class="prono3" src="./images/itinerarygalleryimage5.webp" />
+          </div>
+        </div>
+        <button
+          class="carousel-control-prev"
+          type="button"
+          data-bs-target="#carouselExampleIndicators"
+          data-bs-slide="prev"
+        >
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button
+          class="carousel-control-next"
+          type="button"
+          data-bs-target="#carouselExampleIndicators"
+          data-bs-slide="next"
+        >
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+    </article>
+    <!-- carousel ends -->
+    <!-- accordion starts -->
+    <section class="accordion">
+      <div class="containerAccordion">
+        <div class="content">
+          <input type="radio" name="slider" checked id="homeAcc" />
+          <input type="radio" name="slider" id="blog" />
+          <input type="radio" name="slider" id="help" />
+
+          <div class="list">
+            <label for="homeAcc" class="homeAcc">
+              <span class="title">Itinerary</span>
+            </label>
+            <label for="blog" class="blog">
+              <span class="title">Inclusions</span>
+            </label>
+            <label for="help" class="help">
+              <span class="title">Rates</span>
+            </label>
+
+            <div class="slider"></div>
+          </div>
+          <div class="text-content">
+            <div class="homeAcc text">
+              <div class="title">Itinerary</div>
+              <p>
+                Arrive location, meet and transfer to hotel Compulsory Kowloon
+                City Tour <br /><br />
+                (Visit: Avenue of Stars for picture taking, Jewelry Workshop &
+                Souvenir Shop).<br /><br />
+                Then proceed to Ocean Park Whole day free for own leisure. Free
+                until transfer to airport for return flight.
+              </p>
+            </div>
+            <div class="blog text">
+              <div class="title">Inclusions</div>
+              <div class="inclusionsImg">
+                <img src="./images/inclusion1.jpg" />
+                <img src="./images/inclusion2.jpg" />
+                <img src="./images/inclusion 3.jpg" />
+              </div>
+            </div>
+            <div class="help text">
+              <div class="title">Rates</div>
+              <p>
+                Arrive location, meet and transfer to hotel Compulsory Kowloon
+                City Tour <br /><br />
+                (Visit: Avenue of Stars for picture taking, Jewelry Workshop &
+                Souvenir Shop).<br /><br />
+                Then proceed to Ocean Park Whole day free for own leisure. Free
+                until transfer to airport for return flight.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- accordion ends -->
     <!-- banner section starts  -->
 
     <div class="banner">
@@ -340,5 +400,10 @@
         offset: 150,
       });
     </script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>
