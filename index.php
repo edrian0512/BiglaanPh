@@ -278,57 +278,57 @@
     <div class="box-container">
 
         <div class="box" data-aos="zoom-in-up" data-aos-delay="150">
-            <img src="images/gallery-img-1.jpg" alt="">
+            <img src="images/GalleryImage1.jpg" alt="" height="400px">
             <span>travel spot</span>
-            <h3>iceland</h3>
+            <h3>Palawan Underground River</h3>
         </div>
 
         <div class="box" data-aos="zoom-in-up" data-aos-delay="300">
-            <img src="images/gallery-img-2.jpg" alt="">
+            <img src="images/GalleryImage2.jpg" alt="" height="500px">
             <span>travel spot</span>
-            <h3>greenland</h3>
+            <h3>Bicol Casagwa Ruins</h3>
         </div>
 
-        <div class="box" data-aos="zoom-in-up" data-aos-delay="450">
-            <img src="images/gallery-img-3.jpg" alt="">
+        <div class="box" data-aos="zoom-in-up" data-aos-delay="450" >
+            <img src="images/GalleryImage3.jpg" alt="" height="600px">
             <span>travel spot</span>
-            <h3>alaska</h3>
+            <h3>Cebu Kawasan Falls</h3>
         </div>
 
         <div class="box" data-aos="zoom-in-up" data-aos-delay="150">
-            <img src="images/gallery-img-4.jpg" alt="">
+            <img src="images/GalleryImage4.jpg" alt="" height="300px">
             <span>travel spot</span>
-            <h3>thailand</h3>
+            <h3>Boracay</h3>
         </div>
 
         <div class="box" data-aos="zoom-in-up" data-aos-delay="300">
-            <img src="images/gallery-img-5.jpg" alt="">
+            <img src="images/GalleryImage5.jpg" alt="" height="500px">
             <span>travel spot</span>
-            <h3>brazil</h3>
+            <h3>Ifugao Rice Terraces</h3>
         </div>
 
         <div class="box" data-aos="zoom-in-up" data-aos-delay="450">
-            <img src="images/gallery-img-6.jpg" alt="">
+            <img src="images/GalleryImage6.jpg" alt="" height="500px">
             <span>travel spot</span>
-            <h3>maldive</h3>
+            <h3>Siargao</h3>
         </div>
 
         <div class="box" data-aos="zoom-in-up" data-aos-delay="150">
-            <img src="images/gallery-img-7.jpg" alt="">
+            <img src="images/GalleryImage7.jpg" alt="" height="600px">
             <span>travel spot</span>
-            <h3>iceland</h3>
+            <h3>Bohol Chocolate Hills</h3>
         </div>
 
         <div class="box" data-aos="zoom-in-up" data-aos-delay="300">
-            <img src="images/gallery-img-8.jpg" alt="">
+            <img src="images/GalleryImage8.jpeg" alt="">
             <span>travel spot</span>
-            <h3>alaska</h3>
+            <h3>Davao Samal Island</h3>
         </div>
 
         <div class="box" data-aos="zoom-in-up" data-aos-delay="450">
-            <img src="images/gallery-img-9.jpg" alt="">
+            <img src="images/GalleryImage9.jpg" alt="" height="600px"> 
             <span>travel spot</span>
-            <h3>maldive</h3>
+            <h3>Nueva Viscaya Mt. Pulag</h3>
         </div>
 
     </div>
