@@ -50,10 +50,10 @@
 <section class="home" id="home">
 
     <div class="content">
-        <span data-aos="fade-up" data-aos-delay="150">follow us</span>
-        <h3 data-aos="fade-up" data-aos-delay="300">to the unknown</h3>
-        <p data-aos="fade-up" data-aos-delay="450">Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quia illum quod perspiciatis harum in possimus? Totam consequuntur officia quia?</p>
-        <a data-aos="fade-up" data-aos-delay="600" href="#" class="btn">book now</a>
+        <span data-aos="fade-up" data-aos-delay="150">Follow Us</span>
+        <h3 data-aos="fade-up" data-aos-delay="300">To the Unknown</h3>
+        <p data-aos="fade-up" data-aos-delay="450">“Don’t travel just to see. Travel to try, listen, feel, taste. That way there won’t be any place you cannot find beauty.”</p>
+        <a data-aos="fade-up" data-aos-delay="600" href="#" class="btn">Book Now</a>
     </div>
 
 </section>
@@ -89,18 +89,18 @@
 <section class="about" id="about">
 
     <div class="video-container" data-aos="fade-right" data-aos-delay="300">
-        <video src="images/about-vid-1.mp4" muted autoplay loop class="video"></video>
+        <video src="images/AboutVideo1.mp4" muted autoplay loop class="video"></video>
         <div class="controls">
-            <span class="control-btn" data-src="images/about-vid-1.mp4"></span>
-            <span class="control-btn" data-src="images/about-vid-2.mp4"></span>
-            <span class="control-btn" data-src="images/about-vid-3.mp4"></span>
+            <span class="control-btn" data-src="images/AboutVideo1.mp4"></span>
+            <span class="control-btn" data-src="images/AboutVideo2.mp4"></span>
+            <span class="control-btn" data-src="images/AboutVideo3.mp4"></span>
         </div>
     </div>
 
     <div class="content" data-aos="fade-left" data-aos-delay="600">
         <span>why choose us?</span>
         <h3>Nature's Majesty Awaits You</h3>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde fugit repellat error deserunt nam aperiam odit libero quos provident. Nostrum?</p>
+        <p>Relax and let someone else handle all the details of planning your trip. We take care of organising everything for you, from route planning to making bookings, so you save time and effort. You can look forward to your tour knowing that the experts have everything in hand.</p>
         <a href="#" class="btn">read more</a>
     </div>
 
@@ -121,89 +121,115 @@
 
         <div class="box" data-aos="fade-up" data-aos-delay="150">
             <div class="image">
-                <img src="images/des-1.jpg" alt="">
+                <img src="images/designation1.jpeg" alt="">
             </div>
             <div class="content">
-                <h3>tours & travel</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
-                <a href="#">read more <i class="fas fa-angle-right"></i></a>
+                <h3>Boracay</h3>
+                <p>After its rehabilitation, Boracay reopens as pristine as ever. Fall in love with the island’s soft, white sand, crystal blue waters, and festive atmosphere that make Boracay one of the top tourist destinations of the Philippines.
+</p>
+                <a href="#">View Itinerary <i class="fas fa-angle-right"></i></a>
             </div>
         </div>
 
         <div class="box" data-aos="fade-up" data-aos-delay="300">
             <div class="image">
-                <img src="images/des-2.jpg" alt="">
+                <img src="images/designation2.jpg" alt="">
             </div>
             <div class="content">
-                <h3>tours & travel</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
-                <a href="#">read more <i class="fas fa-angle-right"></i></a>
+                <h3>Cebu</h3>
+                <p>The spotlight is on the majestic island province of Cebu as a highly-urbanized destination rich in historical, cultural, and religious sites.</p>
+                <br> <br> <br>
+                <a href="#">View Itinerary <i class="fas fa-angle-right"></i></a>
             </div>
         </div>
 
         <div class="box" data-aos="fade-up" data-aos-delay="450">
             <div class="image">
-                <img src="images/des-3.jpg" alt="">
+                <img src="images/designation3.jpeg" alt="">
             </div>
             <div class="content">
-                <h3>tours & travel</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
-                <a href="#">read more <i class="fas fa-angle-right"></i></a>
+                <h3>Palawan</h3>
+                <p>The most beautiful place according to renowned French explorer Jacques Costeau, Palawan is home to awe-inspiring paradise islands and islets that transport you to a fantasy world.</p>
+                <br> <br> <a href="#">View Itinerary <i class="fas fa-angle-right"></i></a>
             </div>
         </div>
 
         <div class="box" data-aos="fade-up" data-aos-delay="600">
             <div class="image">
-                <img src="images/des-4.jpg" alt="">
+                <img src="images/designation4.jpg" alt="">
             </div>
             <div class="content">
-                <h3>tours & travel</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
-                <a href="#">read more <i class="fas fa-angle-right"></i></a>
+                <h3>Siargao</h3>
+                <p>Head over to the surf capital of the Philippines and venture into the great outdoors with Siargao! Named Best Island in Asia by Condé Nast Traveler in 2019</p>
+                <br> <br> <br> <br> <a href="#">View Itinerary <i class="fas fa-angle-right"></i></a>
             </div>
         </div>
 
         <div class="box" data-aos="fade-up" data-aos-delay="750">
             <div class="image">
-                <img src="images/des-5.jpg" alt="">
+                <img src="images/designation5.jpg" alt="">
             </div>
             <div class="content">
-                <h3>tours & travel</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
-                <a href="#">read more <i class="fas fa-angle-right"></i></a>
+                <h3>Bicol</h3>
+                <p>It's not just home to the world-famous Mayon Volcano. The Bicol Region has practically everything you could ask for: delicious cuisine, stunning landscapes, and the friendliest smiles you'll encounter.</p>
+                <br> <br><a href="#">View Itinerary <i class="fas fa-angle-right"></i></a>
             </div>
         </div>
 
         <div class="box" data-aos="fade-up" data-aos-delay="900">
             <div class="image">
-                <img src="images/des-6.jpg" alt="">
+                <img src="images/designation6.jpg" alt="">
             </div>
             <div class="content">
-                <h3>tours & travel</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
-                <a href="#">read more <i class="fas fa-angle-right"></i></a>
+                <h3>Mindoro</h3>
+                <p>When talking about the province of Mindoro, the famous Puerto Galera comes to mind. But the province has more to offer than its world-renowned beach such as heritage tours, farm tourism, and nature-based wellness activities.</p>
+                <a href="#">View Itinerary <i class="fas fa-angle-right"></i></a>
             </div>
         </div>
 
         <div class="box" data-aos="fade-up" data-aos-delay="1150">
             <div class="image">
-                <img src="images/des-7.jpg" alt="">
+                <img src="images/designation7.png" alt="">
             </div>
             <div class="content">
-                <h3>tours & travel</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
-                <a href="#">read more <i class="fas fa-angle-right"></i></a>
+                <h3>Bataan</h3>
+                <p>Discover the magic in this amazing historical and cultural province, only an hour by ferryboat across the bay from Manila.</p>
+                <br> <br> <br> <br> <br> <a href="#">View Itinerary <i class="fas fa-angle-right"></i></a>
             </div>
         </div>
 
         <div class="box" data-aos="fade-up" data-aos-delay="1300">
             <div class="image">
-                <img src="images/des-8.jpg" alt="">
+                <img src="images/designation8.jpeg" alt="">
             </div>
             <div class="content">
-                <h3>tours & travel</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
-                <a href="#">read more <i class="fas fa-angle-right"></i></a>
+                <h3>Ilocos Norte</h3>
+                <p>Take your pick among the different adventures that await you at Ilocos Norte! Exploring the province is best by land to get the most out of its stunning topography and picturesque views.
+                </p>
+                <br>    <a href="#">View Itinerary <i class="fas fa-angle-right"></i></a>
+            </div>
+        </div>
+
+        <div class="box" data-aos="fade-up" data-aos-delay="1300">
+            <div class="image">
+                <img src="images/designation9.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Ilocos Sur</h3>
+                <p>Visiting Ilocos Sur is like traveling back in time, with its various churches, buildings, and even entire cities seemingly taken out of the Spanish era.</p>
+                <br> <br>  <br><a href="#">View Itinerary <i class="fas fa-angle-right"></i></a>
+            </div>
+        </div>
+
+        <div class="box" data-aos="fade-up" data-aos-delay="1300">
+            <div class="image">
+                <img src="images/designation10.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Manila</h3>
+                <p>Welcome to the capital of the Philippines! Manila is an excellent hub to learn about the country's culture and history. The metro offers various attractions that make it the perfect spot for staycations!
+                </p>
+                <br>    <a href="#">View Itinerary <i class="fas fa-angle-right"></i></a>
             </div>
         </div>
 
@@ -344,48 +370,48 @@
     <div class="content" data-aos="fade-right" data-aos-delay="300">
         <span>testimonials</span>
         <h3>good news from our clients</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda laudantium corporis fugiat quae unde perspiciatis similique ab modi enim consequatur aperiam cumque distinctio facilis sit, debitis possimus asperiores non harum.</p>
+        <p>What our customers say about us :)</p>
     </div>
 
     <div class="box-container" data-aos="fade-left" data-aos-delay="600">
 
         <div class="box">
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia, ratione.</p>
+            <p>“Booking through you was very easy and made our lives so much easier. I have nothing bad to say! Thank you for giving us tips and guidance before we left on what to bring and such, that was very helpful! Thanks again, Meg S."</p>
             <div class="user">
-                <img src="images/pic-1.png" alt="">
+                <img src="images/testi1.png" alt="">
                 <div class="info">
-                    <h3>john deo</h3>
-                    <span>designer</span>
+                    <h3>Meg S</h3>
+                    <span>Architect</span>
                 </div>
             </div>
         </div>
         <div class="box">
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia, ratione.</p>
+            <p>Thank you so much for being proactive (awesome memory, by the way). Maybe it seems like no big deal to you but this is amazing customer service and is greatly appreciated.</p>
             <div class="user">
-                <img src="images/pic-2.png" alt="">
+                <img src="images/testi2.jpeg" alt="">
                 <div class="info">
-                    <h3>john deo</h3>
-                    <span>designer</span>
+                    <h3>Mark V</h3>
+                    <span>Designer</span>
                 </div>
             </div>
         </div>
         <div class="box">
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia, ratione.</p>
+            <p>thank you so much for a well organized trip. We had a wonderful time. Hard to believe it's already done and past. Weather was awesome, the hotels were nice, thank you for everything!</p>
             <div class="user">
-                <img src="images/pic-3.png" alt="">
+                <img src="images/testi3.jpg" alt="">
                 <div class="info">
-                    <h3>john deo</h3>
-                    <span>designer</span>
+                    <h3>Carl M</h3>
+                    <span>Engineer</span>
                 </div>
             </div>
         </div>
         <div class="box">
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia, ratione.</p>
+            <p>You all are magicians! Thank you for everything you do.</p>
             <div class="user">
-                <img src="images/pic-4.png" alt="">
+                <img src="images/testi4.jpg" alt="">
                 <div class="info">
-                    <h3>john deo</h3>
-                    <span>designer</span>
+                    <h3>Lance O</h3>
+                    <span>Developer</span>
                 </div>
             </div>
         </div>
@@ -461,8 +487,8 @@
 
     <div class="content" data-aos="zoom-in-up" data-aos-delay="300">
         <span>start your adventures</span>
-        <h3>Let's Explore This World</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum voluptatum praesentium amet quibusdam quam officia suscipit odio.</p>
+        <h3>Let's Explore The Philippines</h3>
+        <p>“Everyone needs this friend that calls and says, “Get dressed, we’re going on an adventure.”</p>
         <a href="#book-form" class="btn">book now</a>
     </div>
 
