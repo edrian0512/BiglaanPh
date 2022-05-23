@@ -918,7 +918,7 @@ label {
   display: flex;
   justify-content: center;
   flex-direction: row;
-  gap: 2rem;
+  gap: 3rem;
   margin-bottom: 1.2rem;
 }
 
