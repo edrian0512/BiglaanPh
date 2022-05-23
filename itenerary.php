@@ -11,6 +11,7 @@
       integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor"
       crossorigin="anonymous"
     />
+    
 
     <!-- font awesome cdn link  -->
     <link
@@ -178,68 +179,110 @@
 
     <!-- carousel starts -->
     <article class="container articleCarousel d-flex">
-      <div
-        class="d-flex carousel slid carousel-dark justify-content-center"
-        id="carouselExampleIndicators"
-        data-bs-ride="carousel"
-        data-bs-interval="3000"
-      >
-        <div class="carousel-indicators">
-          <button
-            type="button"
-            data-bs-target="#carouselExampleIndicators"
-            data-bs-slide-to="0"
-            class="active"
-            aria-current="true"
-            aria-label="slide 1"
-          ></button>
-          <button
-            type="button"
-            data-bs-target="#carouselExampleIndicators"
-            data-bs-slide-to="1"
-            aria-current="true"
-            aria-label="slide 2"
-          ></button>
-          <button
-            type="button"
-            data-bs-target="#carouselExampleIndicators"
-            data-bs-slide-to="2"
-            aria-current="true"
-            aria-label="slide 3"
-          ></button>
-        </div>
 
-        <div class="carousel-inner d-flex align-items-center">
-          <div class="carousel-item active">
-            <img class="promo1" src="./images/itinerarygalleryimage4.webp" />
-            <div class="carousel-caption d-none d-md-block"></div>
+      <div class="form-wrapper">
+          <div
+            class="d-flex carousel slid carousel-dark justify-content-center"
+            id="carouselExampleIndicators"
+            data-bs-ride="carousel"
+            data-bs-interval="3000"
+          >
+            <div class="carousel-indicators">
+              <button
+                type="button"
+                data-bs-target="#carouselExampleIndicators"
+                data-bs-slide-to="0"
+                class="active"
+                aria-current="true"
+                aria-label="slide 1"
+              ></button>
+              <button
+                type="button"
+                data-bs-target="#carouselExampleIndicators"
+                data-bs-slide-to="1"
+                aria-current="true"
+                aria-label="slide 2"
+              ></button>
+              <button
+                type="button"
+                data-bs-target="#carouselExampleIndicators"
+                data-bs-slide-to="2"
+                aria-current="true"
+                aria-label="slide 3"
+              ></button>
+            </div>
+
+            <div class="carousel-inner d-flex align-items-center">
+              <div class="carousel-item active">
+                <img class="promo1" src="./images/itinerarygalleryimage4.webp" />
+                <div class="carousel-caption d-none d-md-block"></div>
+              </div>
+              <div class="carousel-item">
+                <img class="promo2" src="./images/itinerarygalleryimage2.jpg" />
+              </div>
+              <div class="carousel-item">
+                <img class="prono3" src="./images/itinerarygalleryimage5.webp" />
+              </div>
+            </div>
+            <button
+              class="carousel-control-prev"
+              type="button"
+              data-bs-target="#carouselExampleIndicators"
+              data-bs-slide="prev"
+            >
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button
+              class="carousel-control-next"
+              type="button"
+              data-bs-target="#carouselExampleIndicators"
+              data-bs-slide="next"
+            >
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
           </div>
-          <div class="carousel-item">
-            <img class="promo2" src="./images/itinerarygalleryimage2.jpg" />
-          </div>
-          <div class="carousel-item">
-            <img class="prono3" src="./images/itinerarygalleryimage5.webp" />
-          </div>
-        </div>
-        <button
-          class="carousel-control-prev"
-          type="button"
-          data-bs-target="#carouselExampleIndicators"
-          data-bs-slide="prev"
-        >
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Previous</span>
-        </button>
-        <button
-          class="carousel-control-next"
-          type="button"
-          data-bs-target="#carouselExampleIndicators"
-          data-bs-slide="next"
-        >
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Next</span>
-        </button>
-      </div>
+     <!-- form -->
+         <div class="form">
+           <h3 class="h3form">Book this Tour</h3>
+           <div class="textemail">
+              <div>
+              <input type="text" placeholder="Name">
+              </div>
+              <div>
+              <input type="email" placeholder="Email">
+              </div>
+              <div>
+              <input type="number" class="width" placeholder="Contact Number">
+              </div>
+           </div>
+           <div class="adultchild">
+             <div>
+              <input type="number" class="nwidth" placeholder="adult">
+             </div>
+             <div>
+              <input type="number" class="nwidth" placeholder="child">
+             </div>
+           </div>
+           <div class="check">
+              <div class="checkin">
+                  <label>Check-In</label>
+                  <input type="date" placeholder="mm/dd/yyyy">
+              </div>
+              <div class="checkout">
+              <label>Check-Out</label>
+              <input type="date" placeholder="mm/dd/yyyy">
+              </div>
+           </div>
+            <div class="textarea">
+              <textarea name="Inquiry" cols="42" rows="3"></textarea>
+            </div>
+           <div>
+           <button class="fbtn">Inquire Now</button>
+           </div>
+         </div>
+    <!-- end of form -->
     </article>
     <!-- carousel ends -->
     <!-- accordion starts -->
@@ -275,14 +318,16 @@
                 until transfer to airport for return flight.
               </p>
             </div>
-            <div class="blog text">
-              <div class="title">Inclusions</div>
-              <div class="inclusionsImg">
-                <img src="./images/inclusion1.jpg" />
-                <img src="./images/inclusion2.jpg" />
-                <img src="./images/inclusion 3.jpg" />
+
+              <div class="blog text">
+                <div class="title">Inclusions</div>
+                  <div class="inclusionsImg">
+                    <img src="./images/inclusion1.jpg" />
+                    <img src="./images/inclusion2.jpg" />
+                    <img src="./images/inclusion 3.jpg" />
+                  </div>
               </div>
-            </div>
+
             <div class="help text">
               <div class="title">Rates</div>
               <p>

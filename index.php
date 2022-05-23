@@ -101,7 +101,7 @@
         <span>why choose us?</span>
         <h3>Nature's Majesty Awaits You</h3>
         <p>Relax and let someone else handle all the details of planning your trip. We take care of organising everything for you, from route planning to making bookings, so you save time and effort. You can look forward to your tour knowing that the experts have everything in hand.</p>
-        <a href="#" class="btn">read more</a>
+        <a href="itenerary.php" class="btn">read more</a>
     </div>
 
 </section>
@@ -127,7 +127,7 @@
                 <h3>Boracay</h3>
                 <p>After its rehabilitation, Boracay reopens as pristine as ever. Fall in love with the island’s soft, white sand, crystal blue waters, and festive atmosphere that make Boracay one of the top tourist destinations of the Philippines.
 </p>
-                <a href="#">View Itinerary <i class="fas fa-angle-right"></i></a>
+                <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
             </div>
         </div>
 
@@ -139,7 +139,7 @@
                 <h3>Cebu</h3>
                 <p>The spotlight is on the majestic island province of Cebu as a highly-urbanized destination rich in historical, cultural, and religious sites.</p>
                 <br> <br> <br>
-                <a href="#">View Itinerary <i class="fas fa-angle-right"></i></a>
+                <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
             </div>
         </div>
 
@@ -150,7 +150,7 @@
             <div class="content">
                 <h3>Palawan</h3>
                 <p>The most beautiful place according to renowned French explorer Jacques Costeau, Palawan is home to awe-inspiring paradise islands and islets that transport you to a fantasy world.</p>
-                <br> <br> <a href="#">View Itinerary <i class="fas fa-angle-right"></i></a>
+                <br> <br> <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
             </div>
         </div>
 
@@ -161,7 +161,7 @@
             <div class="content">
                 <h3>Siargao</h3>
                 <p>Head over to the surf capital of the Philippines and venture into the great outdoors with Siargao! Named Best Island in Asia by Condé Nast Traveler in 2019</p>
-                <br> <br> <br> <br> <a href="#">View Itinerary <i class="fas fa-angle-right"></i></a>
+                <br> <br> <br> <br> <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
             </div>
         </div>
 
@@ -172,7 +172,7 @@
             <div class="content">
                 <h3>Bicol</h3>
                 <p>It's not just home to the world-famous Mayon Volcano. The Bicol Region has practically everything you could ask for: delicious cuisine, stunning landscapes, and the friendliest smiles you'll encounter.</p>
-                <br> <br><a href="#">View Itinerary <i class="fas fa-angle-right"></i></a>
+                <br> <br><a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
             </div>
         </div>
 
@@ -183,7 +183,7 @@
             <div class="content">
                 <h3>Mindoro</h3>
                 <p>When talking about the province of Mindoro, the famous Puerto Galera comes to mind. But the province has more to offer than its world-renowned beach such as heritage tours, farm tourism, and nature-based wellness activities.</p>
-                <a href="#">View Itinerary <i class="fas fa-angle-right"></i></a>
+                <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
             </div>
         </div>
 
@@ -194,7 +194,7 @@
             <div class="content">
                 <h3>Bataan</h3>
                 <p>Discover the magic in this amazing historical and cultural province, only an hour by ferryboat across the bay from Manila.</p>
-                <br> <br> <br> <br> <br> <a href="#">View Itinerary <i class="fas fa-angle-right"></i></a>
+                <br> <br> <br> <br> <br> <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
             </div>
         </div>
 
@@ -206,7 +206,7 @@
                 <h3>Ilocos Norte</h3>
                 <p>Take your pick among the different adventures that await you at Ilocos Norte! Exploring the province is best by land to get the most out of its stunning topography and picturesque views.
                 </p>
-                <br>    <a href="#">View Itinerary <i class="fas fa-angle-right"></i></a>
+                <br>    <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
             </div>
         </div>
 
@@ -217,7 +217,7 @@
             <div class="content">
                 <h3>Ilocos Sur</h3>
                 <p>Visiting Ilocos Sur is like traveling back in time, with its various churches, buildings, and even entire cities seemingly taken out of the Spanish era.</p>
-                <br> <br>  <br><a href="#">View Itinerary <i class="fas fa-angle-right"></i></a>
+                <br> <br>  <br><a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
             </div>
         </div>
 
@@ -229,7 +229,7 @@
                 <h3>Manila</h3>
                 <p>Welcome to the capital of the Philippines! Manila is an excellent hub to learn about the country's culture and history. The metro offers various attractions that make it the perfect spot for staycations!
                 </p>
-                <br>    <a href="#">View Itinerary <i class="fas fa-angle-right"></i></a>
+                <br>    <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
             </div>
         </div>
 
