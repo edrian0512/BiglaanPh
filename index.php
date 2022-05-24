@@ -53,7 +53,7 @@
         <span data-aos="fade-up" data-aos-delay="150">Follow Us</span>
         <h3 data-aos="fade-up" data-aos-delay="300">To the Unknown</h3>
         <p data-aos="fade-up" data-aos-delay="450">“Don’t travel just to see. Travel to try, listen, feel, taste. That way there won’t be any place you cannot find beauty.”</p>
-        <a data-aos="fade-up" data-aos-delay="600" href="#" class="btn">Book Now</a>
+        <a data-aos="fade-up" data-aos-delay="600" href="itinerary.php" class="btn">Book Now</a>
     </div>
 
 </section>
