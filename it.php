@@ -44,60 +44,59 @@
 
 
         <!-- image -->
-    <div class="bg-img">
-      <div class="content">
-        <span data-aos="fade-up" data-aos-delay="150"
-          >Travel & tour Itinerary</span
-        >
-        <h3 data-aos="fade-up" data-aos-delay="300">
-          Enjoy the Philippine Wonders
-        </h3>
-      </div>
-    </div>
-    <!-- image ends -->
-
-    <!-- services/offers starts -->
-
-    <section class="services" id="services">
-      <div class="heading">
-        <span>our promos</span>
-        <h1>Travel far. Eat well. Live long.</h1>
-      </div>
-
-      <div class="box-container">
-        <div class="box" data-aos="zoom-in-up" data-aos-delay="300">
-          <i class="fas fa-hiking"></i>
-          <h3>adventures</h3>
-          <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam,
-            cumque.
-          </p>
+        <div class="bg-img">
+            <div class="content">
+                <span data-aos="fade-up" data-aos-delay="150">Travel & tour Itinerary</span>
+                <h3 data-aos="fade-up" data-aos-delay="300">
+                    Enjoy the Philippine Wonders
+                </h3>
+            </div>
         </div>
+        <!-- image ends -->
 
-        <div class="box" data-aos="zoom-in-up" data-aos-delay="450">
-          <i class="fas fa-utensils"></i>
-          <h3>food & drinks</h3>
-          <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam,
-            cumque.
-          </p>
-        </div>
+        <!-- services/offers starts -->
 
-        <div class="box" data-aos="zoom-in-up" data-aos-delay="600">
-          <i class="fas fa-hotel"></i>
-          <h3>affordable hotels</h3>
-          <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam,
-            cumque.
-          </p>
-        </div>
-      </div>
-    </section>
+        <section class="services" id="services">
+            <div class="heading">
+                <span>our promos</span>
+                <h1>Travel far. Eat well. Live long.</h1>
+            </div>
 
+            <div class="box-container">
+                <div class="box" data-aos="zoom-in-up" data-aos-delay="300">
+                    <i class="fas fa-hiking"></i>
+                    <h3>adventures</h3>
+                    <p>
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam,
+                        cumque.
+                    </p>
+                </div>
 
+                <div class="box" data-aos="zoom-in-up" data-aos-delay="450">
+                    <i class="fas fa-utensils"></i>
+                    <h3>food & drinks</h3>
+                    <p>
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam,
+                        cumque.
+                    </p>
+                </div>
+
+                <div class="box" data-aos="zoom-in-up" data-aos-delay="600">
+                    <i class="fas fa-hotel"></i>
+                    <h3>affordable hotels</h3>
+                    <p>
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam,
+                        cumque.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+<!-- end -->
+<!-- start form -->
         <div class="container" id='margin'>
             <div class="row">
-                <div class="col-lg-8">
+                <div class="col-lg-9">
                     <div id="image" class="carousel slide" data-bs-ride="carousel">
 
                         <div class="carousel-indicators ">
@@ -109,15 +108,15 @@
                         <!-- The slideshow/carousel -->
                         <div class="carousel-inner img-fluid">
                             <div class="carousel-item active">
-                                <img src="images/designation1.jpeg" alt="img"
+                                <img src="./images/itinerarygalleryimage4.webp" alt="img"
                                     class="d-block w-100 img-thumbnail bg-dark" id='it-img'>
                             </div>
                             <div class="carousel-item">
-                                <img src="images/designation3.jpeg" alt="img"
+                                <img src="./images/itinerarygalleryimage2.jpg" alt="img"
                                     class="d-block w-100 img-thumbnail bg-dark" id='it-img'>
                             </div>
                             <div class="carousel-item">
-                                <img src="images/designation3.jpeg" alt="img"
+                                <img src="./images/itinerarygalleryimage5.webp" alt="img"
                                     class="d-block w-100 img-thumbnail bg-dark" id='it-img'>
                             </div>
                         </div>
@@ -136,7 +135,7 @@
 
                 <!-- form -->
 
-                <div class="col-sm">
+                <div class="col-lg-3">
                     <div class="form mt-5 d-lg-flex">
                         <form action="">
                             <h3>Book this Tour</h3>
@@ -209,15 +208,19 @@
         </div>
 
 
+        <div class="banner mt-5">
+            <div class="content" data-aos="zoom-in-up" data-aos-delay="300">
+                <span>start your adventures</span>
+                <h3>Let's Explore This World</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum
+                    voluptatum praesentium amet quibusdam quam officia suscipit odio.
+                </p>
+                <a href="#book-form" class="btn">book now</a>
+            </div>
+        </div>
 
-
-
-
-
-
-
-
-
+        <!-- banner section ends -->
 
 
         <section class="footer">
