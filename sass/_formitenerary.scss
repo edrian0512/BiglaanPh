@@ -1,0 +1,93 @@
+.textemail{
+    display: flex;
+    flex-direction: column;
+}
+
+label{
+    display: block;
+}
+
+.form-wrapper{
+    display: flex;
+    gap: 2rem;
+}
+
+.textemail{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.adultchild{
+    display: flex;
+    flex-direction: row;
+   justify-content: center;
+    gap: 3rem;
+    margin-bottom: 1.1rem;
+    
+}
+
+.form{
+    background-color: #29D9D5;
+    width: 30rem;
+}
+
+.h3form{
+    text-align: center;
+    margin: 2rem;
+}
+
+.check{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 3rem;
+    margin-bottom: 1.2rem;
+}
+
+[type="text"],[type="number"],[type="email"]{
+    padding: .5rem;
+   
+}
+
+[type="text"],[type="email"]{
+    width: 23rem;
+}
+
+.textarea{
+    margin:1rem;
+    text-align: center;
+   
+}
+
+button{
+    margin-left: 1rem;
+}
+
+.width{
+    width: 23rem; 
+}
+.nwidth{
+    width: 10rem;
+}
+
+.fbtn{
+    padding: 0.3rem;
+    margin-left: 3.5rem;
+    border-radius: 5%;
+    background-color: #29D9D5;
+    color: #222222;
+    border: 1px solid  #222222;
+    &:hover{
+        background-color: #222222;
+        color: #29D9D5;
+    }
+}
+
+
+
+
+
+
