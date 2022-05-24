@@ -53,38 +53,10 @@
         <span data-aos="fade-up" data-aos-delay="150">Follow Us</span>
         <h3 data-aos="fade-up" data-aos-delay="300">To the Unknown</h3>
         <p data-aos="fade-up" data-aos-delay="450">“Don’t travel just to see. Travel to try, listen, feel, taste. That way there won’t be any place you cannot find beauty.”</p>
-        <a data-aos="fade-up" data-aos-delay="600" href="#" class="btn">Book Now</a>
+        <a data-aos="fade-up" data-aos-delay="600" href="itinerary.php" class="btn">Book Now</a>
     </div>
 
 </section>
-
-<!-- home section ends -->
-
-<!-- booking form section starts  -->
-
-<!-- <section class="book-form" id="book-form">
-
-    <form action="book-form.php">
-        <div data-aos="zoom-in" data-aos-delay="150" class="inputBox">
-            <span>where to?</span>
-            <input type="text" placeholder="place name" value="">
-        </div>
-        <div data-aos="zoom-in" data-aos-delay="300" class="inputBox">
-            <span>when?</span>
-            <input type="date" value="">
-        </div>
-        <div data-aos="zoom-in" data-aos-delay="450" class="inputBox">
-            <span>how many?</span>
-            <input type="number" placeholder="number of travelers" value="">
-        </div>
-        <input data-aos="zoom-in" data-aos-delay="600" type="submit" value="find now" class="btn">
-    </form>
-
-</section> -->
-
-<!-- booking form section ends -->
-
-<!-- about section starts  -->
 
 <section class="about" id="about">
 
