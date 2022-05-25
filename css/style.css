@@ -933,3 +933,20 @@ section {
   border: 1px solid #ccc;
   border-top: none;
 }
+
+.locationImg {
+  width: 150px;
+  text-align: center;
+  padding-right: 0;
+}
+
+.itemHover:hover {
+  background-color: rgb(95, 93, 93);
+}
+
+@media screen and (max-width: 600px) and (min-width: 300px) {
+  .locationImg {
+    width: 100%;
+    text-align: center;
+  }
+}

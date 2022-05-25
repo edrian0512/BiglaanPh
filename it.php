@@ -193,113 +193,442 @@
                     </div>
 
                     <div id="Rates" class="tabcontent">
-                        <h3 class='text-white'>Rates</h3>
-                        <p class='text-white'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque possimus reprehenderit expedita quas ducimus quos minus iure omnis, labore soluta! Ducimus sint obcaecati voluptates distinctio ratione, eum dignissimos! Temporibus, magni?</p>
-                    </div>
+                        <h1 class='text-white'>Rates</h1>
 
+                        <!-- 1ST ITEM -->
+                        <div class="itemHover">
+                            <div
+                                class="d-flex flex-column flex-lg-row p-3 text-white flex-fill justify-content-lg-evenly justify-content-sm-evenly just">
+                                <div class="d-flex flex-column align-content-center">
+                                    <h3 class="text-white ">AGOS BORACAY</h3>
+                                    <img class="locationImg" src="./images/BORACAY1.jpg">
+                                </div>
+                                <div class="p-5 justify-content-center justify-content-center">
+                                    <h2 class="text-white">15 Jun 2020 – 30 Oct 2020</h2>
+                                    <h3 class="text-white ">Twin Sharing: Php5,058
+                                        Single: Php7,195</h3><br>
+                                    <h3>
+                                        31 Oct 2020 – 31 May 2021</br>
+                                        Twin Sharing: Php5,426
+                                        Single: Php7,932
+                                    </h3>
+                                </div>
+                                <div class="pt-5 d-flex justify-content-center justify-content-center">
+                                    <div class="">
+
+                                        <button type="submit" class="btn">Inquire Now</button>
+                                    </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- 2ND ITEM -->
+                        <div class="itemHover">
+                            <div
+                                class="d-flex flex-column flex-lg-row p-3 text-white flex-fill justify-content-lg-evenly justify-content-sm-evenly just">
+                                <div class="d-flex flex-column align-content-center">
+                                    <h3 class="text-white ">AZALEA BORACAY</h3>
+                                    <img class="locationImg" src="./images/BORACAY2.jpg">
+                                </div>
+                                <div class="p-5 justify-content-center justify-content-center">
+                                    <h2 class="text-white">01 Apr 2020 – 31 May 2020
+                                    </h2>
+                                    <h3 class="text-white ">Twin Sharing: Php7,974
+                                        Single: Php13,026</h3><br>
+                                    <h3>
+                                        01 Jun 2020 – 30 Nov 2020</br>
+                                        Twin Sharing: Php7,342
+                                        Single: Php11,763
+                                    </h3>
+                                </div>
+                                <div class="pt-5 d-flex justify-content-center justify-content-center">
+                                    <div class="">
+
+                                        <button type="submit" class="btn">Inquire Now</button>
+                                    </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <!-- 3RD ITEM -->
+
+                        <div class="itemHover">
+                            <div
+                                class="d-flex flex-column flex-lg-row p-3 text-white flex-fill justify-content-lg-evenly justify-content-sm-evenly just">
+                                <div class="d-flex flex-column">
+                                    <h3 class="text-white ">HAVEN BORACAY</h3>
+                                    <img class="locationImg" src="./images/BORACAY3.jpg">
+                                </div>
+                                <div class="p-5 justify-content-center justify-content-center">
+                                    <h2 class="text-white"> 01 Apr 2020 – 31 Mar 2021</h2>
+                                    <br>
+                                    <h3>Twin Sharing: Php8,079
+                                        Single: Php13,237
+
+
+                                    </h3>
+                                </div>
+                                <div class="pt-5 d-flex justify-content-center justify-content-center">
+                                    <div class="">
+
+                                        <button type="submit" class="btn">Inquire Now</button>
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+                        </div>
+                        <!-- END ITEM -->
+                        <!-- 4RD ITEM -->
+
+                        <div class="itemHover">
+                            <div
+                                class="d-flex flex-column flex-lg-row p-3 text-white flex-fill justify-content-lg-evenly justify-content-sm-evenly just">
+                                <div class="d-flex flex-column">
+                                    <h3 class="text-white ">BORACAY MAND</h3>
+                                    <img class="locationImg" src="./images/BORACAY4.jpg">
+                                </div>
+                                <div class="p-5 justify-content-center justify-content-center">
+                                    <h2 class="text-white">01 Apr 2020 – 31 May 2020
+                                    </h2>
+                                    <h3 class="text-white ">Twin Sharing: Php7,974
+                                        Single: Php13,026</h3><br>
+                                    <h3>
+                                        01 Jun 2020 – 30 Nov 2020</br>
+                                        Twin Sharing: Php7,342
+                                        Single: Php11,763
+                                    </h3>
+                                </div>
+                                <div class="pt-5 d-flex justify-content-center justify-content-center">
+                                    <div class="">
+
+                                        <button type="submit" class="btn">Inquire Now</button>
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+                        </div>
+                        <!-- END ITEM -->
+                        <!-- 5th ITEM -->
+
+                        <div class="itemHover">
+                            <div
+                                class="d-flex flex-column flex-lg-row p-3 text-white flex-fill justify-content-lg-evenly justify-content-sm-evenly just">
+                                <div class="d-flex flex-column">
+                                    <h3 class="text-white ">TRAVELODGE</h3>
+                                    <img class="locationImg" src="./images/BORACAY5.jpg">
+                                </div>
+                                <div class="p-5 justify-content-center justify-content-center">
+                                    <h2 class="text-white">01 Jun 2020 – 15 Dec 2020
+                                    </h2>
+                                    <h3 class="text-white ">Twin Sharing: Php4,816
+                                        Single: Php6,711
+
+                                    </h3><br>
+                                    <h3>
+                                        16 Dec 2020 – 31 May 2021</br>
+                                        Twin Sharing: Php5,026
+                                        Single: Php7,132
+                                    </h3>
+                                </div>
+                                <div class="pt-5 d-flex justify-content-center justify-content-center">
+                                    <div class="">
+
+                                        <button type="submit" class="btn">Inquire Now</button>
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+                        </div>
+                        <!-- END ITEM -->
+                        <!-- 6th ITEM -->
+
+                        <div class="itemHover">
+                            <div
+                                class="d-flex flex-column flex-lg-row p-3 text-white flex-fill justify-content-lg-evenly justify-content-sm-evenly just">
+                                <div class="d-flex flex-column">
+                                    <h3 class="text-white ">BORACAY TROPIC</h3>
+                                    <img class="locationImg" src="./images/BORACAY6.jpg">
+                                </div>
+                                <div class="p-5 justify-content-center justify-content-center">
+                                    <h2 class="text-white">01 Oct 2020 – 31 Mar 2021
+
+
+
+
+                                    </h2>
+                                    <h3 class="text-white ">
+                                        Twin Sharing: Php7,132
+                                        Single: Php11,342
+                                    </h3><br>
+                                    <h3>01 Jun 2020 – 30 Sep 2020
+                                        </br>
+                                        Twin Sharing: Php6,921
+                                        Single: Php10,921
+                                    </h3>
+                                </div>
+                                <div class="pt-5 d-flex justify-content-center justify-content-center">
+                                    <div class="">
+
+                                        <button type="submit" class="btn">Inquire Now</button>
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+                        </div>
+                        <!-- END ITEM -->
+                        <!-- 7th ITEM -->
+
+                        <div class="itemHover">
+                            <div
+                                class="d-flex flex-column flex-lg-row p-3 text-white flex-fill justify-content-lg-evenly justify-content-sm-evenly just">
+                                <div class="d-flex flex-column">
+                                    <h4 class="text-white ">BORACAY UPTOWN</h4>
+                                    <img class="locationImg" src="./images/BORACAY7.jpg">
+                                </div>
+                                <div class="p-5 justify-content-center justify-content-center">
+                                    <h2 class="text-white">01 Apr 2020 – 15 Jun 2020
+                                    </h2>
+                                    <h3 class="text-white ">
+                                        Twin Sharing: Php8,447
+                                        Single: Php13,974
+
+                                    </h3><br>
+                                    <h3>16 Jun 2020 – 15 Oct 2020
+                                        </br>
+
+                                        Twin Sharing: Php8,226
+                                        Single: Php13,532
+
+                                    </h3>
+                                </div>
+                                <div class="pt-5 d-flex justify-content-center justify-content-center">
+                                    <div class="">
+
+                                        <button type="submit" class="btn">Inquire Now</button>
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+                        </div>
+                        <!-- END ITEM -->
+                        <!-- 8th ITEM -->
+
+                        <div class="itemHover">
+                            <div
+                                class="d-flex flex-column flex-lg-row p-3 text-white flex-fill justify-content-lg-evenly justify-content-sm-evenly just">
+                                <div class="d-flex flex-column">
+                                    <h3 class="text-white ">COAST BORACAY</h3>
+                                    <img class="locationImg" src="./images/BORACAY8.jpg">
+                                </div>
+                                <div class="p-5 justify-content-center justify-content-center">
+                                    <h2 class="text-white">01 Jul 2020 – 15 Oct 2020
+
+
+                                    </h2>
+                                    <h3 class="text-white ">
+                                        Twin Sharing: Php10,816
+                                        Single: Php18,711
+
+                                    </h3><br>
+                                    <h3> 01 Apr 2020 – 30 Jun 2020
+                                        </br>
+
+                                        Twin Sharing: Php11,868
+                                        Single: Php20,816
+                                    </h3>
+                                </div>
+                                <div class="pt-5 d-flex justify-content-center justify-content-center">
+                                    <div class="">
+
+                                        <button type="submit" class="btn">Inquire Now</button>
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+                        </div>
+                        <!-- END ITEM -->
+                        <!-- 9th ITEM -->
+
+                        <div class="itemHover">
+                            <div
+                                class="d-flex flex-column flex-lg-row p-3 text-white flex-fill justify-content-lg-evenly justify-content-sm-evenly just">
+                                <div class="d-flex flex-column">
+                                    <h3 class="text-white ">CROWN REGENCY</h3>
+                                    <img class="locationImg" src="./images/BORACAY9.jpg">
+                                </div>
+                                <div class="p-5 justify-content-center justify-content-center">
+                                    <h2 class="text-white">01 Apr 2020 – 31 Mar 2021
+
+                                    </h2>
+                                    <h3 class="text-white ">
+                                        Twin Sharing: Php6,816
+                                        Single: Php10,711
+
+                                    </h3><br>
+
+                                </div>
+                                <div class="pt-5 d-flex justify-content-center justify-content-center">
+                                    <div class="">
+
+                                        <button type="submit" class="btn">Inquire Now</button>
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+                        </div>
+                        <!-- END ITEM -->
+                        <!-- 10th ITEM -->
+
+                        <div class="itemHover">
+                            <div
+                                class="d-flex flex-column flex-lg-row p-3 text-white flex-fill justify-content-lg-evenly justify-content-sm-evenly just">
+                                <div class="d-flex flex-column">
+                                    <h3 class="text-white ">HENANN GARDEN</h3>
+                                    <img class="locationImg" src="./images/BORACAY10.jpg">
+                                </div>
+                                <div class="p-5 justify-content-center justify-content-center">
+                                    <h2 class="text-white">01 Apr 2020 – 31 Mar 2021
+
+                                    </h2>
+                                    <h3 class="text-white ">
+                                        Twin Sharing: Php13,178
+                                        Single: Php23,435
+                                    </h3><br>
+
+                                </div>
+                                <div class="pt-5 d-flex justify-content-center justify-content-center">
+                                    <div class="">
+
+                                        <button type="submit" class="btn">Inquire Now</button>
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+                        </div>
+                        <!-- END ITEM -->
+                    </div>
                     <div id="Inclusion" class="tabcontent">
-                        <h3 class='text-white'>Inclusion</h3>
-                        <p class='text-white'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim consequatur nihil vero iure temporibus repudiandae quasi nisi impedit adipisci corrupti sapiente accusantium reiciendis assumenda ipsa dolores, ratione, ad, maiores quo.</p>
+                        <h1 class='text-white'>Inclusion</h1></br></br>
+                        <h3 class="text-white">
+                            Accommodation</br></br>
+                            Daily breakfast</br></br>
+                            Roundtrip Caticlan airport transfers</h3>
                     </div>
+                </div>
+            </div>
+        </div>
 
+
+        <div class="banner mt-5">
+            <div class="content" data-aos="zoom-in-up" data-aos-delay="300">
+                <span>start your adventures</span>
+                <h3>Let's Explore This World</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum
+                    voluptatum praesentium amet quibusdam quam officia suscipit odio.
+                </p>
+                <a href="#book-form" class="btn">book now</a>
+            </div>
+        </div>
+
+        <!-- banner section ends -->
+
+
+        <section class="footer">
+
+            <div class="box-container">
+
+                <div class="box" data-aos="fade-up" data-aos-delay="150">
+                    <a href="#" class="logo"> <i class="fas fa-paper-plane"></i>travel </a>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, ad?</p>
+                    <div class="share">
+                        <a href="#" class="fab fa-facebook-f"></a>
+                        <a href="#" class="fab fa-twitter"></a>
+                        <a href="#" class="fab fa-instagram"></a>
+                        <a href="#" class="fab fa-linkedin"></a>
+                    </div>
+                </div>
+
+                <div class="box" data-aos="fade-up" data-aos-delay="300">
+                    <h3>quick links</h3>
+                    <a href="#home" class="links"> <i class="fas fa-arrow-right"></i> home </a>
+                    <a href="#about" class="links"> <i class="fas fa-arrow-right"></i> about </a>
+                    <a href="#destination" class="links"> <i class="fas fa-arrow-right"></i> destination </a>
+                    <a href="#services" class="links"> <i class="fas fa-arrow-right"></i> services </a>
+                    <a href="#gallery" class="links"> <i class="fas fa-arrow-right"></i> gallery </a>
+                    <a href="#blogs" class="links"> <i class="fas fa-arrow-right"></i> blogs </a>
+                </div>
+
+                <div class="box" data-aos="fade-up" data-aos-delay="450">
+                    <h3>contact info</h3>
+                    <p> <i class="fas fa-map"></i> Lipa, Batangas </p>
+                    <p> <i class="fas fa-phone"></i> +63 9082447247 </p>
+                    <p> <i class="fas fa-envelope"></i> sample@gmail.com </p>
+                    <p> <i class="fas fa-clock"></i> 7:00am - 10:00pm </p>
+                </div>
+
+                <div class="box" data-aos="fade-up" data-aos-delay="600">
+                    <h3>newsletter</h3>
+                    <p>subscribe for latest updates</p>
+                    <form action="">
+                        <input type="email" name="" placeholder="enter your email" class="email" id="">
+                        <input type="submit" value="subscribe" class="btn">
+                    </form>
                 </div>
 
             </div>
-        </div>
-    </div>
+
+        </section>
+
+        <div class="credit">created by <span>Group 2</span> | all rights reserved!</div>
+
+        <script>
+            function openCity(evt, cityName) {
+                var i, tabcontent, tablinks;
+                tabcontent = document.getElementsByClassName("tabcontent");
+                for (i = 0; i < tabcontent.length; i++) {
+                    tabcontent[i].style.display = "none";
+                }
+                tablinks = document.getElementsByClassName("tablinks");
+                for (i = 0; i < tablinks.length; i++) {
+                    tablinks[i].className = tablinks[i].className.replace(" active", "");
+                }
+                document.getElementById(cityName).style.display = "block";
+                evt.currentTarget.className += " active";
+            }
+        </script>
 
 
-    <div class="banner mt-5">
-        <div class="content" data-aos="zoom-in-up" data-aos-delay="300">
-            <span>start your adventures</span>
-            <h3>Let's Explore This World</h3>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum
-                voluptatum praesentium amet quibusdam quam officia suscipit odio.
-            </p>
-            <a href="#book-form" class="btn">book now</a>
-        </div>
-    </div>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
 
-    <!-- banner section ends -->
-
-
-    <section class="footer">
-
-        <div class="box-container">
-
-            <div class="box" data-aos="fade-up" data-aos-delay="150">
-                <a href="#" class="logo"> <i class="fas fa-paper-plane"></i>travel </a>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, ad?</p>
-                <div class="share">
-                    <a href="#" class="fab fa-facebook-f"></a>
-                    <a href="#" class="fab fa-twitter"></a>
-                    <a href="#" class="fab fa-instagram"></a>
-                    <a href="#" class="fab fa-linkedin"></a>
-                </div>
-            </div>
-
-            <div class="box" data-aos="fade-up" data-aos-delay="300">
-                <h3>quick links</h3>
-                <a href="#home" class="links"> <i class="fas fa-arrow-right"></i> home </a>
-                <a href="#about" class="links"> <i class="fas fa-arrow-right"></i> about </a>
-                <a href="#destination" class="links"> <i class="fas fa-arrow-right"></i> destination </a>
-                <a href="#services" class="links"> <i class="fas fa-arrow-right"></i> services </a>
-                <a href="#gallery" class="links"> <i class="fas fa-arrow-right"></i> gallery </a>
-                <a href="#blogs" class="links"> <i class="fas fa-arrow-right"></i> blogs </a>
-            </div>
-
-            <div class="box" data-aos="fade-up" data-aos-delay="450">
-                <h3>contact info</h3>
-                <p> <i class="fas fa-map"></i> Lipa, Batangas </p>
-                <p> <i class="fas fa-phone"></i> +63 9082447247 </p>
-                <p> <i class="fas fa-envelope"></i> sample@gmail.com </p>
-                <p> <i class="fas fa-clock"></i> 7:00am - 10:00pm </p>
-            </div>
-
-            <div class="box" data-aos="fade-up" data-aos-delay="600">
-                <h3>newsletter</h3>
-                <p>subscribe for latest updates</p>
-                <form action="">
-                    <input type="email" name="" placeholder="enter your email" class="email" id="">
-                    <input type="submit" value="subscribe" class="btn">
-                </form>
-            </div>
-
-        </div>
-
-    </section>
-
-    <div class="credit">created by <span>Group 2</span> | all rights reserved!</div>
-
-    <script>
-    function openCity(evt, cityName) {
-        var i, tabcontent, tablinks;
-        tabcontent = document.getElementsByClassName("tabcontent");
-        for (i = 0; i < tabcontent.length; i++) {
-            tabcontent[i].style.display = "none";
-        }
-        tablinks = document.getElementsByClassName("tablinks");
-        for (i = 0; i < tablinks.length; i++) {
-            tablinks[i].className = tablinks[i].className.replace(" active", "");
-        }
-        document.getElementById(cityName).style.display = "block";
-        evt.currentTarget.className += " active";
-    }
-    </script>
-
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
-
-    <script>
-    AOS.init({
-        duration: 800,
-        offset: 150,
-    });
-    </script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous">
-    </script>
+        <script>
+            AOS.init({
+                duration: 800,
+                offset: 150,
+            });
+        </script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous">
+            </script>
 </body>
 
 </html>
