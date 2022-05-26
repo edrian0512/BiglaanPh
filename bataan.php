@@ -100,7 +100,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
-                    <h1 class="text-white" data-aos="fade-right" data-aos-delay="150">BATAAN STATION 2 TOUR PACKAGE
+                    <h1 class="text-white" data-aos="fade-right" data-aos-delay="150">BATAAN TOUR PACKAGE
                     </h1>
                     <h3 class="text-white" data-aos="fade-right" data-aos-delay="300">3 DAYS / 2 NIGHTS</h3>
                     <div id="image" class="carousel slide" data-bs-ride="carousel">
