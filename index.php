@@ -111,7 +111,7 @@
                 </div>
                 <div class="content">
                     <h3>Cebu</h3>
-                    <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
+                    <a href="cebu.php">View Itinerary <i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
 
@@ -121,7 +121,7 @@
                 </div>
                 <div class="content">
                     <h3>Palawan</h3>
-                    <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
+                    <a href="palawan.php">View Itinerary <i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
 
