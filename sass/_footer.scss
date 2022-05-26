@@ -36,7 +36,7 @@
                     width: 4.5rem;
                     line-height: 4rem;
                     font-size: 2rem;
-                    border-radius: 50%;
+                    border-radius: 10px;
                     font-size: 1.7rem;
                     border:$border;
                     color:$blue;
@@ -55,6 +55,7 @@
                 color:$light-color;
                 padding:1rem 0;
                 display: block;
+                text-decoration: none;
 
                 &:hover{
                     color:$blue;
@@ -72,7 +73,7 @@
 
             form .email{
                 width: 100%;
-                border-radius: 5rem;
+                border-radius: 10px;
                 border:$border;
                 background: none;
                 font-size: 1.5rem;

@@ -3,7 +3,8 @@
     margin-top: 9rem;
     width: 90%;
     border-radius: 1rem;
-    background:linear-gradient($black-bg, $black-bg), url(../images/home-bg.jpg) no-repeat;
+    // background:linear-gradient($black-bg, $black-bg), url(../images/home-bg.jpg) no-repeat;
+    background:linear-gradient($black-bg, $black-bg), url(../images/bora1.webp) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -26,14 +27,14 @@
 
         h3{
             font-size: 6vw;
-            color:$white;
+            color:$blue;
         }
 
         p{
             max-width: 60rem;
             margin:1rem auto;
             font-size: 1.4rem;
-            color:$light-color;
+            color:$blue;
             line-height: 2;
         }
     }

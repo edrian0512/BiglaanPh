@@ -57,7 +57,7 @@ section {
   font-size: 1.7rem;
   color: #29d9d5;
   border: 0.2rem solid #29d9d5;
-  border-radius: 5rem;
+  border-radius: 10px;
   cursor: pointer;
   background: none;
   text-decoration: none;
@@ -116,7 +116,7 @@ section {
   margin-top: 9rem;
   width: 90%;
   border-radius: 1rem;
-  background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url(../images/home-bg.jpg) no-repeat;
+  background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url(../images/bora1.webp) no-repeat;
   background-size: cover;
   background-position: center;
   display: flex;
@@ -138,13 +138,13 @@ section {
 }
 .home .content h3 {
   font-size: 6vw;
-  color: #fff;
+  color: #29d9d5;
 }
 .home .content p {
   max-width: 60rem;
   margin: 1rem auto;
   font-size: 1.4rem;
-  color: #aaa;
+  color: #29d9d5;
   line-height: 2;
 }
 
@@ -464,7 +464,7 @@ section {
 }
 
 .banner {
-  background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url(../images/banner-bg.jpg) no-repeat;
+  background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url(../images/bora1.webp) no-repeat;
   background-size: cover;
   background-position: center;
   padding: 3rem 2rem;
@@ -522,7 +522,7 @@ section {
   width: 4.5rem;
   line-height: 4rem;
   font-size: 2rem;
-  border-radius: 50%;
+  border-radius: 10px;
   font-size: 1.7rem;
   border: 0.2rem solid #29d9d5;
   color: #29d9d5;
@@ -538,6 +538,7 @@ section {
   color: #aaa;
   padding: 1rem 0;
   display: block;
+  text-decoration: none;
 }
 .footer .box-container .box .links:hover {
   color: #29d9d5;
@@ -551,7 +552,7 @@ section {
 }
 .footer .box-container .box form .email {
   width: 100%;
-  border-radius: 5rem;
+  border-radius: 10px;
   border: 0.2rem solid #29d9d5;
   background: none;
   font-size: 1.5rem;
@@ -632,7 +633,7 @@ section {
     font-size: 2.7rem;
   }
 }
-.bg-img {
+.bg-boracay {
   background-image: url("../images/bora3.jpg");
   background-color: black;
   color: black;
@@ -646,19 +647,48 @@ section {
   background-size: cover;
   background-attachment: fixed;
 }
-.bg-img .content {
+.bg-boracay .content {
   text-align: center;
 }
-.bg-img .content span {
+.bg-boracay .content span {
   font-weight: bolder;
   color: transparent;
   -webkit-text-stroke: 0.1rem #fff;
   font-size: 4vw;
   display: block;
 }
-.bg-img .content h3 {
+.bg-boracay .content h3 {
   font-size: 4vw;
-  color: #fff;
+  color: #111;
+}
+
+.bg-baguio {
+  background-image: url("../images/baguio2.jpg");
+  background-color: black;
+  color: black;
+  height: 50vh;
+  width: 100vw;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.bg-baguio .content {
+  text-align: center;
+}
+.bg-baguio .content span {
+  font-weight: bolder;
+  color: transparent;
+  -webkit-text-stroke: 0.1rem #fff;
+  font-size: 4vw;
+  display: block;
+}
+.bg-baguio .content h3 {
+  font-size: 4vw;
+  color: #111;
 }
 
 #margin {
@@ -669,19 +699,26 @@ section {
   height: 55vh;
 }
 
-#boxIT {
+form .form-input {
   height: 50px;
-  font-size: 13px;
+  font-size: 15px;
 }
 
-#font {
+#font-form {
   font-size: 15px;
+}
+
+.addOns img {
+  border-radius: 10px;
+  height: 30vh;
+}
+.addOns img:hover {
+  transform: scale(1.1);
 }
 
 .tab {
   overflow: hidden;
-  border: 1px solid #ccc;
-  background-color: #f1f1f1;
+  background-color: #29d9d5;
 }
 .tab button {
   background-color: inherit;
@@ -704,6 +741,13 @@ section {
 .tabcontent {
   display: none;
   padding: 6px 12px;
-  border: 1px solid #ccc;
+  border: 1px solid #fff;
   border-top: none;
+}
+
+.btn-form {
+  color: #fff;
+}
+.btn-form:hover {
+  color: #29d9d5;
 }
