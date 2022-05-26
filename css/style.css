@@ -256,8 +256,7 @@ section {
 .destination .box-container .box .image img {
   height: 100%;
   width: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 .destination .box-container .box .content {
   padding: 2rem;
@@ -316,15 +315,12 @@ section {
 }
 
 .gallery .box-container {
-  -moz-columns: 3 25rem;
-       columns: 3 25rem;
-  -moz-column-gap: 1.5rem;
-       column-gap: 1.5rem;
+  columns: 3 25rem;
+  column-gap: 1.5rem;
 }
 .gallery .box-container .box {
   margin-bottom: 1rem;
-  -moz-column-break-inside: avoid;
-       break-inside: avoid;
+  break-inside: avoid;
 }
 .gallery .box-container .box img {
   width: 100%;
@@ -426,8 +422,7 @@ section {
 .blogs .box-container .box .image img {
   height: 100%;
   width: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 .blogs .box-container .box .content {
   padding: 2rem;
@@ -597,12 +592,10 @@ section {
     left: 0;
     right: 0;
     background: #222;
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
-            clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+    clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
   }
   .header .navbar.active {
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
-            clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
   }
   .header .navbar a {
     margin: 2rem;
@@ -750,4 +743,214 @@ form .form-input {
 }
 .btn-form:hover {
   color: #29d9d5;
+}
+
+.bg-bicol {
+  background-image: url("../images/bicol1.jpg");
+  background-color: black;
+  color: black;
+  height: 50vh;
+  width: 100vw;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.bg-bicol .content {
+  text-align: center;
+}
+.bg-bicol .content span {
+  font-weight: bolder;
+  color: transparent;
+  -webkit-text-stroke: 0.1rem #fff;
+  font-size: 4vw;
+  display: block;
+}
+.bg-bicol .content h3 {
+  font-size: 4vw;
+  color: #111;
+}
+
+.bg-siargao {
+  background-image: url("../images/siargao1.jpg");
+  background-color: black;
+  color: black;
+  height: 50vh;
+  width: 100vw;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  background-attachment: fixed;
+}
+.bg-siargao .content {
+  text-align: center;
+}
+.bg-siargao .content span {
+  font-weight: bolder;
+  color: transparent;
+  -webkit-text-stroke: 0.1rem #fff;
+  font-size: 4vw;
+  display: block;
+}
+.bg-siargao .content h3 {
+  font-size: 4vw;
+  color: #111;
+}
+
+.bg-manila {
+  background-image: url("../images/manila1.jpg");
+  background-color: black;
+  color: black;
+  height: 50vh;
+  width: 100vw;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  background-attachment: fixed;
+}
+.bg-manila .content {
+  text-align: center;
+}
+.bg-manila .content span {
+  font-weight: bolder;
+  color: transparent;
+  -webkit-text-stroke: 0.1rem #fff;
+  font-size: 4vw;
+  display: block;
+}
+.bg-manila .content h3 {
+  font-size: 4vw;
+  color: #111;
+}
+
+.bg-mindoro {
+  background-image: url("../images/mindoro1.jpg");
+  background-color: black;
+  color: black;
+  height: 50vh;
+  width: 100vw;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  background-attachment: fixed;
+}
+.bg-mindoro .content {
+  text-align: center;
+}
+.bg-mindoro .content span {
+  font-weight: bolder;
+  color: transparent;
+  -webkit-text-stroke: 0.1rem #fff;
+  font-size: 4vw;
+  display: block;
+}
+.bg-mindoro .content h3 {
+  font-size: 4vw;
+  color: #111;
+}
+
+.bg-bataan {
+  background-image: url("../images/bataan1.jpg");
+  background-color: black;
+  color: black;
+  height: 50vh;
+  width: 100vw;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  background-attachment: fixed;
+}
+.bg-bataan .content {
+  text-align: center;
+}
+.bg-bataan .content span {
+  font-weight: bolder;
+  color: transparent;
+  -webkit-text-stroke: 0.1rem #fff;
+  font-size: 4vw;
+  display: block;
+}
+.bg-bataan .content h3 {
+  font-size: 4vw;
+  color: #111;
+}
+
+.bg-ilocosnorte {
+  background-image: url("../images/ilocosnorte1.jpg");
+  background-color: black;
+  color: black;
+  height: 50vh;
+  width: 100vw;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  background-attachment: fixed;
+}
+.bg-ilocosnorte .content {
+  text-align: center;
+}
+.bg-ilocosnorte .content span {
+  font-weight: bolder;
+  color: transparent;
+  -webkit-text-stroke: 0.1rem #fff;
+  font-size: 4vw;
+  display: block;
+}
+.bg-ilocosnorte .content h3 {
+  font-size: 4vw;
+  color: #111;
+}
+
+.bg-ilocossur {
+  background-image: url("../images/ilocossur1.jpg");
+  background-color: black;
+  color: black;
+  height: 50vh;
+  width: 100vw;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  background-attachment: fixed;
+}
+.bg-ilocossur .content {
+  text-align: center;
+}
+.bg-ilocossur .content span {
+  font-weight: bolder;
+  color: transparent;
+  -webkit-text-stroke: 0.1rem #fff;
+  font-size: 4vw;
+  display: block;
+}
+.bg-ilocossur .content h3 {
+  font-size: 4vw;
+  color: #111;
 }

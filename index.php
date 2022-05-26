@@ -131,7 +131,7 @@
                 </div>
                 <div class="content">
                     <h3>Siargao</h3>
-                    <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
+                    <a href="siargao.php">View Itinerary <i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
 
@@ -141,7 +141,7 @@
                 </div>
                 <div class="content">
                     <h3>Bicol</h3>
-                    <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
+                    <a href="bicol.php">View Itinerary <i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
 
@@ -151,7 +151,7 @@
                 </div>
                 <div class="content">
                     <h3>Mindoro</h3>
-                    <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
+                    <a href="mindoro.php">View Itinerary <i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
 
@@ -161,7 +161,7 @@
                 </div>
                 <div class="content">
                     <h3>Bataan</h3>
-                    <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
+                    <a href="bataan.php">View Itinerary <i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
 
@@ -171,7 +171,7 @@
                 </div>
                 <div class="content">
                     <h3>Ilocos Norte</h3>
-                    <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
+                    <a href="ilocosnorte.php">View Itinerary <i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
 
@@ -181,7 +181,7 @@
                 </div>
                 <div class="content">
                     <h3>Ilocos Sur</h3>
-                    <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
+                    <a href="ilocossur.php">View Itinerary <i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
 
@@ -191,7 +191,7 @@
                 </div>
                 <div class="content">
                     <h3>Manila</h3>
-                    <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
+                    <a href="manila.php">View Itinerary <i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
 
