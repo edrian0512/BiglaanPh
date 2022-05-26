@@ -131,7 +131,7 @@
                 </div>
                 <div class="content">
                     <h3>Siargao</h3>
-                    <a href="siargao.php">View Itinerary <i class="fas fa-angle-right"></i></a>
+                    <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
 
@@ -141,7 +141,7 @@
                 </div>
                 <div class="content">
                     <h3>Bicol</h3>
-                    <a href="bicol.php">View Itinerary <i class="fas fa-angle-right"></i></a>
+                    <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
 
@@ -151,7 +151,7 @@
                 </div>
                 <div class="content">
                     <h3>Mindoro</h3>
-                    <a href="mindoro.php">View Itinerary <i class="fas fa-angle-right"></i></a>
+                    <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
 
@@ -161,7 +161,7 @@
                 </div>
                 <div class="content">
                     <h3>Bataan</h3>
-                    <a href="bataan.php">View Itinerary <i class="fas fa-angle-right"></i></a>
+                    <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
 
@@ -171,7 +171,7 @@
                 </div>
                 <div class="content">
                     <h3>Ilocos Norte</h3>
-                    <a href="ilocosnorte.php">View Itinerary <i class="fas fa-angle-right"></i></a>
+                    <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
 
@@ -181,7 +181,7 @@
                 </div>
                 <div class="content">
                     <h3>Ilocos Sur</h3>
-                    <a href="ilocossur.php">View Itinerary <i class="fas fa-angle-right"></i></a>
+                    <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
 
@@ -191,7 +191,7 @@
                 </div>
                 <div class="content">
                     <h3>Manila</h3>
-                    <a href="manila.php">View Itinerary <i class="fas fa-angle-right"></i></a>
+                    <a href="itenerary.php">View Itinerary <i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
 
@@ -212,41 +212,32 @@
 
         <div class="box-container">
 
-            <div class="box" data-aos="zoom-in-up" data-aos-delay="150">
-                <i class="fas fa-globe"></i>
-                <h3>worldwide</h3>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam, cumque.</p>
-            </div>
 
             <div class="box" data-aos="zoom-in-up" data-aos-delay="300">
                 <i class="fas fa-hiking"></i>
                 <h3>adventures</h3>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam, cumque.</p>
+                <p>Avoiding danger is no safer in the long run than outright exposure. Life is either a daring adventure
+                    or nothing.</p>
             </div>
 
             <div class="box" data-aos="zoom-in-up" data-aos-delay="450">
                 <i class="fas fa-utensils"></i>
                 <h3>food & drinks</h3>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam, cumque.</p>
+                <p>Experience unique flavors and afforable prices in every location.</p>
             </div>
 
             <div class="box" data-aos="zoom-in-up" data-aos-delay="600">
                 <i class="fas fa-hotel"></i>
                 <h3>affordable hotels</h3>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam, cumque.</p>
+                <p>We give you a legendary welcome, every time you come back.</p>
             </div>
 
             <div class="box" data-aos="zoom-in-up" data-aos-delay="750">
                 <i class="fas fa-wallet"></i>
                 <h3>affordable price</h3>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam, cumque.</p>
+                <p>Enjoy unforgettable experiences in the most afforable ways.</p>
             </div>
 
-            <div class="box" data-aos="zoom-in-up" data-aos-delay="900">
-                <i class="fas fa-headset"></i>
-                <h3>24/7 support</h3>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam, cumque.</p>
-            </div>
 
         </div>
 
@@ -390,18 +381,21 @@
 
         <div class="heading">
             <span>blogs & posts</span>
-            <h1>we untold stories</h1>
+            <h1>shared expericences</h1>
         </div>
 
         <div class="box-container">
 
             <div class="box" data-aos="fade-up" data-aos-delay="150">
                 <div class="image">
-                    <img src="images/blog-1.jpg" alt="img">
+                    <img src="images/blogimage1.webp" alt="img">
                 </div>
                 <div class="content">
-                    <a href="#" class="link">Life is a journey, not a destination</a>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, natus!</p>
+                    <a href="#" class="link">“We take photos as a return ticket to a moment otherwise gone”</a>
+                    <p> I’ll never be the same, having seen the moon, the stars, and the sun shine in different places
+                        around the globe. Whether you’re in Boston or Bogotá, the moon doesn’t change shape or shine any
+                        differently, but the lens with which you view it does.
+                    </p>
                     <div class="icon">
                         <a href="#"><i class="fas fa-clock"></i> 21st may, 2021</a>
                         <a href="#"><i class="fas fa-user"></i> by admin</a>
@@ -411,11 +405,17 @@
 
             <div class="box" data-aos="fade-up" data-aos-delay="300">
                 <div class="image">
-                    <img src="images/blog-2.jpg" alt="img">
+                    <img src="images/blogimage2.jpeg" alt="img">
                 </div>
                 <div class="content">
-                    <a href="#" class="link">Life is a journey, not a destination</a>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, natus!</p>
+                    <a href="#" class="link">“There’s a sunrise and a sunset every single day, and they’re absolutely
+                        free. Don’t miss so many of them” </a>
+                    <p>If you want to escape winter, a trip to the Philippines is a must. As a tropical country, the
+                        Philippines only has two seasons: dry and rainy seasons.
+
+                        The dry season covers November to May, while the rainy season is usually from June until
+                        October. It’s still sunny and warm during the rainy months, so tours in the Philippines are
+                        available year-round, with cancellations only necessary when there’s a typhoon.</p>
                     <div class="icon">
                         <a href="#"><i class="fas fa-clock"></i> 21st may, 2021</a>
                         <a href="#"><i class="fas fa-user"></i> by admin</a>
@@ -425,11 +425,20 @@
 
             <div class="box" data-aos="fade-up" data-aos-delay="450">
                 <div class="image">
-                    <img src="images/blog-3.jpg" alt="img">
+                    <img src="images/blogimage3.jpg" alt="img">
                 </div>
                 <div class="content">
-                    <a href="#" class="link">Life is a journey, not a destination</a>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, natus!</p>
+                    <a href="#" class="link">“Traveling – it leaves you speechless, then turns you into a
+                        storyteller”</a>
+                    <p>Cost is one of the major considerations of a traveler. Good thing, traveling in the Philippines
+                        is very affordable. For example, there are plenty of day tours that just cost around PHP1000
+                        (USD20).
+
+                        You will find that there’s a lot of cheap accommodation options for you in the Philippines as
+                        well: from dorm-type hostels to bed and breakfast homestays that are both perfect for
+                        budget-conscious travelers. For those looking for a better value, resorts also come in a whole
+                        spectrum of pricing. Oftentimes, package deals can be found if you know where to look. You will
+                        also have plenty of option when planning a Philippines staycation.</p>
                     <div class="icon">
                         <a href="#"><i class="fas fa-clock"></i> 21st may, 2021</a>
                         <a href="#"><i class="fas fa-user"></i> by admin</a>
@@ -466,7 +475,9 @@
 
             <div class="box" data-aos="fade-up" data-aos-delay="150">
                 <a href="#" class="logo"> <i class="fas fa-paper-plane"></i>travel </a>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, ad?</p>
+                <p>Travel Without Limits!
+                    Now that travel to the Philippines has been allowed for Balikbayans, we invite you to come home and
+                    experience the beauty, colors and joy of our country once again.</p>
                 <div class="share">
                     <a href="#" class="fab fa-facebook-f"></a>
                     <a href="#" class="fab fa-twitter"></a>
@@ -518,10 +529,10 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
 
     <script>
-    AOS.init({
-        duration: 800,
-        offset: 150,
-    });
+        AOS.init({
+            duration: 800,
+            offset: 150,
+        });
     </script>
 
 </body>
